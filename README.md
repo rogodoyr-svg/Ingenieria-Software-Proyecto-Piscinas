@@ -163,6 +163,3 @@ Con el objetivo de proveer predictibilidad a los clientes (Frontend), todas las 
   }
 }
 ```
-
----
-*Desarrollado con ❤️ para Verano Perfecto.*
